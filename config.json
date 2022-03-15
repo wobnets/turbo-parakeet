@@ -5,7 +5,9 @@
 		"systemctl enable sshd.service",
 		"usermod --shell /bin/zsh wob"
 	],
-	"filesystem": "ext4",
+	"filesystem": {
+		"format": "ext4"
+	},
 	"gfx_driver": "All open-source (default)",
     "hostname": "",
     "kernels": [
