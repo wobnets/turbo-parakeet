@@ -4,7 +4,7 @@
 			{
 				"boot": true,
 				"encryption": false,
-				"filesystem" {
+				"filesystem": {
 					"format": "fat32"
 				},
 				"format": true,
