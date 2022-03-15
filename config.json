@@ -21,8 +21,10 @@
     "packages": [
 		"neovim",
 		"zsh",
+		"zsh-completions",
 		"git",
-		"openssh"
+		"openssh",
+		"fzf"
 	],
 	"profile": "i3",
     "swap": true,
