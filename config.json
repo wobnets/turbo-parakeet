@@ -24,7 +24,9 @@
 		"zsh-completions",
 		"git",
 		"openssh",
-		"fzf"
+		"fzf",
+		"tmux",
+		"alacritty"
 	],
 	"profile": "i3",
     "swap": true,
