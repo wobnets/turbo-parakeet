@@ -23,9 +23,7 @@
 		"zsh-completions",
 		"git",
 		"openssh",
-		"fzf",
-		"tmux",
-		"alacritty"
+		"fzf"
 	],
 	"profile": "xorg",
     "swap": true,
