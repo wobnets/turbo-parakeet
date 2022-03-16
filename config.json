@@ -32,7 +32,8 @@
 		"python-pip",
 		"pyright",
 		"ttf-hack",
-		"firefox"
+		"firefox",
+		"xdg-utils"
 	],
 	"profile": "i3",
     "swap": true,
