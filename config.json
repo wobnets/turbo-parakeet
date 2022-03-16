@@ -30,6 +30,7 @@
 		"alacritty",
 		"python",
 		"python-pip",
+		"pyright",
 		"ttf-hack",
 		"firefox"
 	],
