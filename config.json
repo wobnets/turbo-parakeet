@@ -24,7 +24,8 @@
 		"git",
 		"openssh",
 		"fzf",
-		"tmux"
+		"tmux",
+		"stow"
 	],
 	"profile": "i3",
     "swap": true,
