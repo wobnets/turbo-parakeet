@@ -19,6 +19,7 @@
     "ntp": true,
     "packages": [
 		"neovim",
+		"vi",
 		"zsh",
 		"zsh-completions",
 		"git",
@@ -28,7 +29,9 @@
 		"stow",
 		"alacritty",
 		"python",
-		"python-pip"
+		"python-pip",
+		"ttf-hack",
+		"firefox"
 	],
 	"profile": "i3",
     "swap": true,
