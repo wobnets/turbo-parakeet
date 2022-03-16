@@ -2,8 +2,7 @@
 	"audio": "pipewire",
 	"bootloader": "grub-install",
 	"custom-commands": [
-		"systemctl enable sshd.service",
-		"pacman -R xterm"
+		"systemctl enable sshd.service"
 	],
 	"gfx_driver": "All open-source (default)",
     "hostname": "",
