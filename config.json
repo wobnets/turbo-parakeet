@@ -2,8 +2,7 @@
 	"audio": "pipewire",
 	"bootloader": "grub-install",
 	"custom-commands": [
-		"systemctl enable sshd.service",
-		"usermod --shell /bin/zsh wob"
+		"systemctl enable sshd.service"
 	],
 	"gfx_driver": "All open-source (default)",
     "hostname": "",
@@ -28,7 +27,7 @@
 		"tmux",
 		"alacritty"
 	],
-	"profile": "i3",
+	"profile": "xorg",
     "swap": true,
     "sys-encoding": "utf-8",
     "sys-language": "en_US",
