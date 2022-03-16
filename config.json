@@ -2,7 +2,8 @@
 	"audio": "pipewire",
 	"bootloader": "grub-install",
 	"custom-commands": [
-		"systemctl enable sshd.service"
+		"systemctl enable sshd.service",
+		"pacman -R xterm"
 	],
 	"gfx_driver": "All open-source (default)",
     "hostname": "",
@@ -25,7 +26,8 @@
 		"openssh",
 		"fzf",
 		"tmux",
-		"stow"
+		"stow",
+		"alacritty"
 	],
 	"profile": "i3",
     "swap": true,
